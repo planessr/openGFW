@@ -10,4 +10,4 @@
     iptables -F 2>/dev/null
     iptables -X 2>/dev/null
     netfilter-persistent save 2>/dev/null
-    echo -e "放开防火墙端口成功"
+    echo -e "自动放行端口成功！SsPlane提供支持!"
